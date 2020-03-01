@@ -15,7 +15,7 @@ public class Bienvenido {
 					System.out.println(" "+args[i]);
 	
 				}
-				
+				System.out.println("PROGRAMA TERMINADO ");
 				
 			}
 		}
